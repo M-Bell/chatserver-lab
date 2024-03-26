@@ -1,0 +1,3 @@
+- name: reposense-action
+  uses: reposense/reposense-action@v1.1.0
+            
